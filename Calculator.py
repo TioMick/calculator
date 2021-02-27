@@ -1,5 +1,7 @@
 def banner_help():
     import os
+    import time
+    time.sleep(4)
     os.system('clear')
     print ("≠==========================================================")
     print ("≠================================")
